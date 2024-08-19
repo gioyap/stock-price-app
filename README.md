@@ -63,6 +63,9 @@ To run the application locally, use the following steps:
 
    The application should be running on `http://localhost:3000`.
 
+## Deployed project in vercel
+https://stock-price-app-delta.vercel.app/
+
 ## Usage
 
 - **Search**: Use the search bar at the top of the page to filter stocks by symbol or company name.
